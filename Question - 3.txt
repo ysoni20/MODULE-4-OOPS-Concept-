@@ -1,0 +1,23 @@
+Que - 3: What is the difference between OOP and POP?
+
+Ans : OOP:
+
+-> Object oriented
+-> Program is divided into objects.
+-> Bottom-up approach.
+-> Inheritance property is used.
+-> It uses access specifier.
+-> Encapsulation is used to hide the data.
+-> Concept of virtual function.
+-> use for solving big problems.
+
+            POP:
+
+-> Structure oriented.
+-> Program is divided into functions.
+-> Top-down approach.
+-> Inheritance is not allowed.
+-> It doesn’t use access specifier.
+-> No data hiding.
+-> No virtual function.
+-> Not suitable for solving big problems.
